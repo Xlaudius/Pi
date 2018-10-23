@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Property: one
+  Stair: one
+
+two:
+  Property: two
+  Stair: two

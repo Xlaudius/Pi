@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  block: 1
+  predial: 1
+  Province: one
+  Property: one
+
+two:
+  block: 1
+  predial: 1
+  Province: two
+  Property: two

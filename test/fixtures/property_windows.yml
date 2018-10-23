@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Window: one
+  Property: one
+  other: MyString
+  protections: false
+
+two:
+  Window: two
+  Property: two
+  other: MyString
+  protections: false

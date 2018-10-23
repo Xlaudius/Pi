@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  observations: MyText
+  Property: one
+  Cover: one
+
+two:
+  observations: MyText
+  Property: two
+  Cover: two

@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  DryWall: one
+  Property: one
+  other: MyString
+
+two:
+  DryWall: two
+  Property: two
+  other: MyString

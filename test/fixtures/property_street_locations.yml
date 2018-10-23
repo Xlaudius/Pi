@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Property: one
+  StreetLocation: one
+
+two:
+  Property: two
+  StreetLocation: two

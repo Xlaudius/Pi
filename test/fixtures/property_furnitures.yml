@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Furniture: one
+  Property: one
+  FurnitureCover: one
+
+two:
+  Furniture: two
+  Property: two
+  FurnitureCover: two

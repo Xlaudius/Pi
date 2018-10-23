@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  img: MyString
+  volumen: 1.5
+  Property: one
+
+two:
+  img: MyString
+  volumen: 1.5
+  Property: two

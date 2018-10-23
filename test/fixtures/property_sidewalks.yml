@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Sidewalk: one
+  Property: one
+  width: 1.5
+
+two:
+  Sidewalk: two
+  Property: two
+  width: 1.5

@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Door: one
+  DoorFrame: one
+  Property: one
+
+two:
+  Door: two
+  DoorFrame: two
+  Property: two

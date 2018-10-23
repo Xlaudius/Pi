@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  other: MyString
+  Property: one
+  ExteriorClosure: one
+
+two:
+  other: MyString
+  Property: two
+  ExteriorClosure: two

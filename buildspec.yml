@@ -1,0 +1,15 @@
+# buildspec.yml
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo Logging into Amazon ECR...
+  build:
+    commands:
+      - echo Build started on `date`
+      - echo Building the Test image...
+  post_build:
+    commands:
+      - echo Build completed on `date`
+

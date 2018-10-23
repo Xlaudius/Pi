@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Shed: one
+  Property: one
+  ShedMaterial: one
+
+two:
+  Shed: two
+  Property: two
+  ShedMaterial: two

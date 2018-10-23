@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  State: one
+  location: MyString
+  inhabited: false
+  habitant: MyString
+  Client: one
+  Owner: one
+
+two:
+  State: two
+  location: MyString
+  inhabited: false
+  habitant: MyString
+  Client: two
+  Owner: two

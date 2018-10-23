@@ -1,0 +1,2 @@
+module PropertyclosetsHelper
+end
