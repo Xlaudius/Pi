@@ -1,16 +1,12 @@
 FROM ruby:2.5.1
 
-LABEL Name=pi Version=0.0.1
-EXPOSE 3000
+RUN apt-get update -yqq
+RUN apt-get install -yqq --no-install-recommends nodejs
 
-# throw errors if Gemfile has been modified since Gemfile.lock
-RUN bundle config --global frozen 1
-
-WORKDIR /app
-COPY . /app
-
-COPY Gemfile Gemfile.lock ./
+COPY Gemfile* /usr/src/app/
+WORKDIR /usr/src/app
 RUN bundle install
 
+COPY . /usr/src/app/
+
 CMD ["bin/rails", "s", "-b", "0.0.0.0"]
-    
